@@ -1,1 +1,1 @@
-My first landing page
+My first landing page. It's nothing special
